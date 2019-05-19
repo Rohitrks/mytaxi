@@ -68,5 +68,11 @@
 	{ "id": 47, "body": "some comment", "postId": 2 },
     { "id": 48, "body": "some comment", "postId": 3 }
   ],
-  "profile": [{"userid": 1900,"name": "Anoop"},{"userid": 1905,"name": "tanya"},{"userid": 1906,"name": "Samantha"},{"userid": 1907,"name": "Abi"},{"userid": 1909,"name": "jc"}]
+  "profile": [
+  {"userid": 1900,"name": "Anoop"},
+  {"userid": 1905,"name": "tanya"},
+  {"userid": 1906,"name": "Samantha"},
+  {"userid": 1907,"name": "Abi"},
+  {"userid": 1909,"name": "jc"}
+  ]
 }
